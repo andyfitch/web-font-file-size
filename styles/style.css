@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'boycottregular';
+    src: url('../fonts/boycott_after_glyphs.eot');
+    src: url('../fonts/boycott_after_glyphs.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/boycott_after_glyphs.woff') format('woff'),
+         url('../fonts/boycott_after_glyphs.ttf') format('truetype'),
+         url('../fonts/boycott_after_glyphs.svg#boycottregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1, p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.font-face, .cufon {
+	font-size: 100px;
+	text-transform: uppercase;
+}
+
+.font-face {
+	font-family: 'boycottregular', Helvetica, Arial, sans-serif;
+}
+
+.cufon {
+		
+}
